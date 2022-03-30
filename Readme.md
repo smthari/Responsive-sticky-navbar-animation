@@ -6,8 +6,8 @@
 Project: RESPONSIVE STICKY ANIMATED NAVBAR \
 Stack: HTML & CSS\
 Level: Beginner\
-Demo : [Demo](https://profile-card-animation.netlify.app/)\
-Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/frontend-projects-tutorial/lectures/38652114)
+Demo : [Demo](https://responsive-sticky-navbar.netlify.app/)\
+Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/frontend-projects-tutorial/lectures/39096734)
 
 ---
 
