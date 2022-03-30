@@ -27,7 +27,7 @@ Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/fronten
 - Type `git add .` add all files 
 - Type `git commit -m "message here"` git commmit message
 
-#### Deploy your project
+#### Deploy your project on any one of them
 1. Github pages
 2. Netlify
 3. Vercel
