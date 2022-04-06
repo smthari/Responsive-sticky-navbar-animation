@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+            "sideBar.background": "#151c36",
+    "editor.background": "#EEF0F4",
+
+    },
+}
